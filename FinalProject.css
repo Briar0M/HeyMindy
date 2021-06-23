@@ -1,0 +1,190 @@
+body {
+    background-color: rgb(255, 247, 236);
+  }
+h1 {
+  color: rgb(128, 202, 233);
+}
+p {
+  color: rgb(128, 202, 233);
+}
+.mindy {
+  float: left;
+  margin: 10px;
+  margin-left: 10%;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  width: 70%;
+  height: 20%;
+}
+
+ul{
+  padding: 0%;
+}
+.navFooter{
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  bottom: 0;
+  list-style-type: none;
+}
+.nav-item {
+justify-content: center;
+width: 100%;
+}
+.journal{
+margin-left: 35%;
+margin-right: 35%;
+margin-top: 10%;
+margin-bottom: 10%;
+min-width: 65px;
+min-height: 65px;
+}
+.reminders{
+margin-left: 35%;
+margin-right: 35%;
+margin-top: 10%;
+margin-bottom: 10%;
+min-width: 65px;
+min-height: 65px;
+}
+.therapist {
+
+margin-left: 35%;
+margin-right: 35%;
+margin-top: 10%;
+margin-bottom: 10%;
+min-width: 65px;
+min-height: 65px;
+}
+.home {
+margin-left: 35%;
+margin-right: 35%;
+margin-top: 10%;
+margin-bottom: 10%;
+min-width: 65px;
+min-height: 65px;
+}
+
+
+
+button{
+  font-size: 24pt;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  border: none;
+}
+button a {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.buttons {
+min-height: 145px;
+position: relative;
+margin-right: 1%;
+margin-bottom: 15%;
+text-align: center;
+width: 100%;
+}
+.buttontext {
+ margin-top: 18%;
+ margin-bottom: 15%;
+ margin-left: 30%;
+ margin-right: 30%;
+ font-size: 18pt;
+ width: 200px;
+}
+
+
+.row1 {
+margin-top: 50px;
+margin-bottom: 20px;
+display: flex;
+width: 100%;
+}
+.row2{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+
+}
+.row3{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+}
+.row4{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+
+}
+
+
+.block1{
+background-color: rgb(254, 250,181);
+width: 50%;
+min-height: 200px;
+height: 25%;
+margin: 25px;
+border-radius: 21px;
+}
+.block2{
+  background-color: rgb(253, 169, 144);
+  width: 50%;
+  min-height: 200px;
+  height: 25%;
+  margin: 25px;
+  border-radius: 21px;
+}
+
+.block3{
+  background-color: rgb(255, 107, 127);
+  width: 50%;
+  min-height: 200px;
+  height: 25%;
+  margin: 25px;
+  border-radius: 21px;
+}
+.block4{
+  background-color:rgb(159, 232, 223) ;
+  width: 50%;
+  min-height: 200px;
+  height: 25%;
+  margin: 25px;
+  border-radius: 21px;
+}
+
+.block5{
+  background-color: rgb(193, 171, 241); 
+  width: 50%;
+  min-height: 200px;
+  height: 25%;
+  margin: 25px;
+  border-radius: 21px;
+}
+.block6{
+  background-color: rgb(253, 169, 144);
+  width: 50%;
+  min-height: 200px;
+  height: 25%;
+  margin: 25px;
+  border-radius: 21px;
+}
+
+.block7{
+  background-color: rgb(147, 277, 150) ;
+  width: 50%;
+  min-height: 200px;
+  height: 25%;
+  margin: 25px;
+  border-radius: 21px;
+}
+.block8{
+  background-color: rgb(201, 72, 150);
+  width: 50%;
+  min-height: 200px;
+  height: 25%;
+  margin: 25px;
+  border-radius: 21px;
+}
