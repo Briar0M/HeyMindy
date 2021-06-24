@@ -1,11 +1,12 @@
 body {
     background-color: rgb(255, 247, 236);
+    padding: 10px;
   }
 h1 {
   color: rgb(128, 202, 233);
 }
 p {
-  color: rgb(128, 202, 233);
+  color: black;
 }
 .mindy {
   float: left;
@@ -73,6 +74,7 @@ button{
   font-size: 24pt;
   font-family: 'M PLUS Rounded 1c', sans-serif;
   border: none;
+  text-decoration: none;
 }
 button a {
   padding-left: 5px;
@@ -80,8 +82,7 @@ button a {
 }
 .buttons {
 min-height: 145px;
-position: relative;
-margin-right: 1%;
+position: static;
 margin-bottom: 15%;
 text-align: center;
 width: 100%;
@@ -136,6 +137,7 @@ border-radius: 21px;
   height: 25%;
   margin: 25px;
   border-radius: 21px;
+  align-content: center;
 }
 
 .block3{
@@ -187,4 +189,75 @@ border-radius: 21px;
   height: 25%;
   margin: 25px;
   border-radius: 21px;
+}
+
+
+
+
+
+
+
+.mindystresstextbubble {
+  align-content: center;
+  margin: 10px;
+  margin-left: 10%;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  width: 70%;
+  height: 20%;
+
+}
+
+.rows {
+  margin: 40px;
+  display: block;
+}
+
+.icon{
+width: 20%;
+float: left;
+padding: 8px;
+}
+
+.p2button{
+  background-color: rgb(121, 205, 241);
+  width: 70%;
+  border-radius: 12px;
+}
+
+.p2button h4 {
+  margin: 0px;
+  color: aliceblue;
+  text-align: right;
+  padding-right: 10px;
+  font-size: 24pt;
+
+}
+.p2button p {
+  color: aliceblue;
+  text-align: right;
+  font-size: 14pt;
+  padding-right: 10px;
+
+}
+
+.bottomofpagedeco {
+  width: 100%;
+  position: relative;
+  top: 0;
+}
+
+.rewards{
+  float: right;
+  margin: 20px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 10px solid rgb(201, 121, 170);
+  
+}
+.rewards p {
+  color: black;
+  font-size: 14pt;
 }
